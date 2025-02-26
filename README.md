@@ -12,7 +12,7 @@ Overview :
 This dataset contains Airbnb data for over 250,000 listings across 10 major cities worldwide. It includes detailed information about hosts, pricing, locations, room types, and over 5 million historical guest reviews. The dataset provides valuable insights for studying trends in the short-term rental market.
 
 Dataset :
-The dataset includes the following files: /kaggle/input/airbnb-listings-reviews
+The dataset includes the following files: [/kaggle/input/airbnb-listings-reviews](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)
 
 listings.csv Contains detailed information about Airbnb properties, including host details, location, pricing, and room types.
 reviews.csv Includes guest reviews for Airbnb properties, covering feedback, review dates, and reviewer details.

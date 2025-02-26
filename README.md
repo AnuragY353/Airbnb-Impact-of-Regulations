@@ -3,7 +3,7 @@
 
 Airbnb is an online marketplace that connects people who want to rent out their homes with travelers seeking accommodations.
 
-<img src=["images/airbnb_analysis.png"](https://www.spinxdigital.com/app/uploads/2022/11/image-airbnb.jpg) alt="Impact of Airbnb Regulations" width="600">
+<img src=https://www.spinxdigital.com/app/uploads/2022/11/image-airbnb.jpg>
 
 ## Project Link
 [AirBnB Impact of Regulations](https://www.kaggle.com/code/anuragyesansure/airbnb-listings-review-project/edit/run/224378796)
